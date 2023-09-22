@@ -1,0 +1,13 @@
+name: ryvu_test
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bowtie2
+  - samtools
+  - r-biocmanager
+  - seqtk=1.4
+  - r-base
+  - nextflow=22.10.6
+prefix: /Users/erkut/opt/anaconda3/envs/ryvu_test
