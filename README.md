@@ -5,7 +5,7 @@ This pipeline uses a prebult index of hg38 which should be provided by the user 
 
 **Workflow:**
 <p align="left">
-  <img src="https://github.com/erkutilaslan/ryvu/blob/main/dag.png"></div>
+  <img src="https://github.com/erkutilaslan/cancer_crispr/blob/main/dag.png"></div>
 </p>
 
 
